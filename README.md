@@ -3,7 +3,7 @@
 
 # L4D2-Chikko-Tank-swap
 
-珠宝的让克插件
+Tank swap by Chikko
 
 </div>
 
@@ -15,7 +15,7 @@
 ---
 
 ## Usage
-> 使用2023.3.1最新的SourcePawn库编译
+> Compile using the latest SourcePawn library from 2023.3.1
 
 ```linux bash
 反转了你用GUI编译吧
