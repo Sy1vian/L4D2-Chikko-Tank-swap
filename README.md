@@ -18,7 +18,7 @@ Tank swap by Chikko
 > Compile using the latest SourcePawn library from 2023.3.1
 
 ```linux bash
-反转了你用GUI编译吧
+ZoneMOD换克插件,理论对抗都能用，用GUI编译吧
 ```
 
 ## License
